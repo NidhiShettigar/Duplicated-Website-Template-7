@@ -1,0 +1,497 @@
+body {
+    background-color: rgb(247, 203, 9);    
+}
+
+.navbar nav a{
+    text-decoration: none;
+    color:black;
+    text-transform:none;
+    align-self: center;
+}
+
+.alefth {
+   margin-left: 2.5%;
+   font-family: 'Roboto Condensed', sans-serif;
+   font-size: 130%;
+}
+
+.aleft {
+    margin-left: 1.5%;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 130%;
+}
+
+.heading {
+    padding-left: 19%;
+    padding-right: 15%;
+    font-family: 'Dancing Script';
+    font-size: 350%;
+
+}
+
+.arightb {
+    margin-left: 10%;
+    height: 2em;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 150%;
+    background-color: white;
+    border: none;
+}
+
+.arighta {
+    margin-left: 1%;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 130%;
+}
+
+.arighti {
+    margin-left: 1%;
+    margin-right: 1%;
+    width: 1.5em; 
+    height:1.5em;
+}
+
+.nava {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: 1fr;
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    width: 1450px;
+    height: 40px;
+}
+
+.parent1 {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: 1fr;
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    width: 1430px;
+    padding-top: 25px;
+}
+
+
+.line1 {
+    height: 5px;
+    width: 290px;
+    background: white;
+}
+
+.sentence1 {
+    
+    width: 280px;
+    font-size: 190%;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.line2 {
+    height: 5px;
+    width: 1053px;
+    background: white;
+}
+
+.sentence2 {
+    font-size: 190%;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.sen1 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.items1 {
+    margin-left: 40px;
+    width: 300px;
+}
+
+.items2 {
+    margin-left: 40px;
+    border-right: black 3px dotted;
+}
+
+/*#bord1 {
+    width: 280px;
+    border-right:black 3px dotted ;
+}
+*/
+#bord2 {
+    width: 300px;
+}
+
+/*#bord3 {
+    width: 280px;
+    border-right:black 3px dotted ;
+}
+
+#bord4 {
+    width: 320px;
+    border-right:black 3px dotted ;
+}*/
+.items3 {
+    margin-left: 30px;
+    border-right: black 3px dotted;
+   
+}
+
+.items4 {
+    margin-left: 30px;
+}
+
+/*.gridcontainer {
+    margin-top: 90px;
+    padding-left: 45px;
+    display: grid;
+    border:1px solid orchid;
+    grid-template-columns: auto auto auto;
+    justify-items:flex-start;
+}
+
+.gridsec {
+    width: 200px;
+    border:1px solid rgb(66, 23, 65);
+}*/
+
+.ano1{
+    width: 300px; 
+    margin-left: 40px;
+}
+
+.ano2{
+    width: 800px;
+    margin-right: 250px; 
+}
+
+.asec1 {
+    background-color: white;
+    width: 115px;
+    height: 20px;
+    font-size: 13px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.asec2 {
+    background-color: white;
+    width: 110px;
+    height: 20px;
+    font-size: 13px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+/*#innersec {
+    width:950px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    border:1px solid rgb(112, 218, 186);
+    margin-left: 10px;
+}
+
+.innergrid {
+   border: 1px solid red; 
+   align-items: flex-start;
+}*/
+
+#image1 {
+    float:right;
+    height:690px;
+    margin-bottom: 30px;
+    margin-right: 50px;
+    padding-bottom: 100px ;
+}
+
+.firsth4 {
+    margin-top: 100px;
+    margin-left: 45px;
+    font-family: 'Montserrat', sans-serif;
+    height: 10px;
+    padding-top: 70px;
+}
+
+.firsth1 {
+    margin-left: 45px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 87px;
+    margin-top: 5px;
+    margin-bottom: 50px;
+
+}
+
+.firstp {
+    margin-left: 45px;
+    margin-right: 750px;
+    font-family: 'Krona One', sans-serif;
+}
+
+.hashtag {
+    margin-left: 45px;
+    margin-top: 50px;
+    font-size: 20px;
+}
+
+.hash {
+    margin-left: 45px;
+    
+}
+
+#image2 {
+    float:right;
+    height:690px;
+    width:600px;
+    margin-right: 49px;
+    margin-left: 213px;
+}
+
+.secondh4 {
+    margin-top: 150px;
+    margin-left: 45px;
+    font-family: 'Montserrat', sans-serif;
+    height: 10px;
+    padding-top: 110px;
+}
+
+.secondp {
+    margin-left: 45px;
+    margin-right: 360px;
+    font-family: 'Krona One', sans-serif;
+    color:rgb(71, 64, 64);
+    font-size: 16px;
+}
+
+.secondpp {
+    margin-left: 45px;
+    margin-right: 270px;
+    font-family: 'Krona One', sans-serif;
+    color:rgb(71, 64, 64)
+}
+
+.grid-container {
+    margin: 5px;
+    display: grid;
+    grid-template-columns: auto auto ;
+    grid-template-rows: auto auto;
+    justify-content: center; 
+    margin-top: 10px;
+    width:1450px;
+}
+
+.grid-item {
+    margin: 5px;
+    margin-left: 100px;
+    width: 620px;
+    border-left: black dotted;
+    margin-bottom: 50px;
+    
+}
+
+.post-title {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 170%;
+    color:black;
+    margin-left: 40px;
+}
+
+/*.thirdh4 {
+    font-size: 35px;
+    margin-left: 10px;
+    color: rgb(80, 8, 109);
+}*/
+
+.para {
+    margin-top: 50px;
+    margin-left: 40px;
+    font-size: 110%;
+    color:rgb(27, 26, 26);
+    margin-right: 100px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.hasha {
+    margin-left: 40px;
+    font-size: 105%;
+    font-family: 'Krona One', sans-serif;
+}
+
+.image234 {
+    height: 240px;
+    width:230px;
+    float:right;
+}
+
+.h4asec {
+    background-color: white;
+    width: 78px;
+    height: 25px;
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 828px;
+}
+
+.grid-container1 {
+    display: grid;
+    grid-template-columns: auto auto ;
+    grid-template-rows: auto auto;
+    justify-content: left;
+    padding-bottom: 28px;
+}
+
+.grid-item1 {
+    margin-left: 100px;
+    margin-bottom: 150px;
+    width: 620px;
+    border-left: black dotted;
+}
+
+.post-title1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 220%;
+    color:black;
+    margin-left: 40px;
+}
+
+.secondp1 {
+    margin-left: 45px;
+    margin-right: 340px;
+    font-family: 'Krona One', sans-serif;
+    color:rgb(71, 64, 64);
+    font-size: 100%;
+}
+
+.secondpp1 {
+    margin-left: 45px;
+    margin-right: 250px;
+    font-family: 'Krona One', sans-serif;
+    color:rgb(71, 64, 64);
+    font-size: 100%;
+}
+
+.image678 {
+    height: 240px;
+    width:230px;
+    float:right;
+}
+
+.h4asec1 {
+    background-color: white;
+    width: 78px;
+    height: 25px;
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 101px;
+    margin-top: 200px;
+}
+
+.subpost {
+    font-size: 300%;
+    margin-left: 45px;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: auto auto ;
+    grid-template-rows: auto auto;
+    justify-content: left;
+    padding-bottom: 28px;
+    border-bottom: black dotted;
+    margin-left: 40px;
+    margin-right: 55px;
+}
+
+.grid1 {
+    width: 540px;
+    margin-bottom: 50px;
+}
+
+.grid2 {
+    margin-left: 15px;
+    width: 900px;
+    margin-bottom: 50px;
+    /* border: turquoise solid; */
+}
+
+#email {
+    margin-top: 37px;
+    margin-left: 300px;
+    height: 48%;
+    width: 290px;
+    background-color: black; 
+    font-size: 150%;
+    /*text-align: center;*/
+    border:black solid;
+}
+
+#subbut {
+    margin-top: 40px;
+    height: 54%;
+    width: 150px;
+    font-size: 150%;
+    border: white;
+}
+
+.space {
+    background-color: tomato;
+    height: 48%;
+    width: 2px;
+}
+
+.parent {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(4, 1fr);
+    grid-column-gap: 10px;
+    grid-row-gap: 50px;
+    width: 900px;
+    margin-top: 40px;
+    
+    }
+
+.grid3 {
+    display: grid;
+    grid-template-columns: auto auto ;
+    grid-template-rows: auto auto;
+    justify-content: left;
+    padding-bottom: 28px;
+    margin-left: 40px;
+    margin-right: 55px;
+    margin-top: 40px;
+}
+
+.grid4 {
+    width: 590px;
+}
+
+.renge {
+    font-size: 390%;
+    font-family: 'Dancing Script';
+}
+
+.para2 {
+    font-size: 120%;
+    margin-right: 180px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.box {
+    font-size: 110%;
+    font-family: 'Krona One', sans-serif;
+}
+
+.parent2 {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    grid-template-rows: 1fr;
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    width: 410px;
+}
+
+.para3 {
+    margin-top: 90px;
+    font-size: 100%;
+    margin-left: 40px;
+    font-family: 'Montserrat', sans-serif;
+    white-space: pre-wrap;
+}
+
+
+
+
